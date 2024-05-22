@@ -9,5 +9,5 @@ extracter = Extracter()
 if __name__ == "__main__":
 
     data = scarper.main()
-    # extracter.main(data)
+    extracter.main(data)
     updater()
