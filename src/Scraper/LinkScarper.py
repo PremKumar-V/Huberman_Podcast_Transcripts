@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-from MainScraper import ScarperClass
+from Scraper.MainScraper import ScarperClass
 from typing import List
 
 
